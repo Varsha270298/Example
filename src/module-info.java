@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vsudambo
+ *
+ */
+module example {
+}
